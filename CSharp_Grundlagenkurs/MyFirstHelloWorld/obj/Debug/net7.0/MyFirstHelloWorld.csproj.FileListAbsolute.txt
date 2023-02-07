@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\bin\Debug\net7.0\MyFirstHelloWorld.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\bin\Debug\net7.0\MyFirstHelloWorld.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\bin\Debug\net7.0\MyFirstHelloWorld.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\bin\Debug\net7.0\MyFirstHelloWorld.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\bin\Debug\net7.0\MyFirstHelloWorld.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\refint\MyFirstHelloWorld.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\MyFirstHelloWorld.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\MyFirstHelloWorld\obj\Debug\net7.0\ref\MyFirstHelloWorld.dll
