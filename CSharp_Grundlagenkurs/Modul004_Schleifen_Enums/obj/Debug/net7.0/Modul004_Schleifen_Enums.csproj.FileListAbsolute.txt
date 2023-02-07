@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\bin\Debug\net7.0\Modul004_Schleifen_Enums.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\bin\Debug\net7.0\Modul004_Schleifen_Enums.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\bin\Debug\net7.0\Modul004_Schleifen_Enums.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\bin\Debug\net7.0\Modul004_Schleifen_Enums.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\bin\Debug\net7.0\Modul004_Schleifen_Enums.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\refint\Modul004_Schleifen_Enums.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\Modul004_Schleifen_Enums.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul004_Schleifen_Enums\obj\Debug\net7.0\ref\Modul004_Schleifen_Enums.dll

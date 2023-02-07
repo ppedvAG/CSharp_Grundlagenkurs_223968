@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modul004_Schleifen_Enums/1.0.0": {
+        "runtime": {
+          "Modul004_Schleifen_Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul004_Schleifen_Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

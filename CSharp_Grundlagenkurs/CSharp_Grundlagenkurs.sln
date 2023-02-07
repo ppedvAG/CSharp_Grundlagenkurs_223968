@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstHelloWorld", "MyFirstHelloWorld\MyFirstHelloWorld.csproj", "{A5230869-49E9-4804-A8B7-23674D2BEFCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFirstHelloWorld", "MyFirstHelloWorld\MyFirstHelloWorld.csproj", "{A5230869-49E9-4804-A8B7-23674D2BEFCE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul001_Erstes_Beispiel", "Modul001_Erstes_Beispiel", "{D6FDE716-1439-4D62-9C59-95C07CAE7C7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul002_Variablen_Konventierung_Operatoren", "Modul002_Variablen_Konventierung_Operatoren\Modul002_Variablen_Konventierung_Operatoren.csproj", "{E6984EC2-A4F0-410E-B9C7-D9B2ACA8FC50}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul002_Variablen_Konventierung_Operatoren", "Modul002_Variablen_Konventierung_Operatoren\Modul002_Variablen_Konventierung_Operatoren.csproj", "{E6984EC2-A4F0-410E-B9C7-D9B2ACA8FC50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul002_LabSolution", "Modul002_LabSolution\Modul002_LabSolution.csproj", "{3BDCFE9D-A471-463E-BF4D-20A17F07338E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul002_LabSolution", "Modul002_LabSolution\Modul002_LabSolution.csproj", "{3BDCFE9D-A471-463E-BF4D-20A17F07338E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul002_Variablen", "Modul002_Variablen", "{4364C8D6-A27C-410F-8BED-24BDB044A5A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul003_Array_Conditions", "Modul003_Array_Conditions\Modul003_Array_Conditions.csproj", "{43783B0B-8791-4B22-99CB-58F7B6E28FB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul003_Array_Conditions", "Modul003_Array_Conditions\Modul003_Array_Conditions.csproj", "{43783B0B-8791-4B22-99CB-58F7B6E28FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul003_DateTimeIsLeapSampleNET6", "Modul003_DateTimeIsLeapSampleNET6\Modul003_DateTimeIsLeapSampleNET6.csproj", "{FFF79DDB-A88D-4BDE-B26D-B2767051D2D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul003_Arrays_IfStatements", "Modul003_Arrays_IfStatements", "{DF218698-C797-4C78-9512-524F25C863E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul004_Schleifen_Enums", "Modul004_Schleifen_Enums\Modul004_Schleifen_Enums.csproj", "{09942914-6C52-45C8-A8BA-80633E1863FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +43,14 @@ Global
 		{43783B0B-8791-4B22-99CB-58F7B6E28FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43783B0B-8791-4B22-99CB-58F7B6E28FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43783B0B-8791-4B22-99CB-58F7B6E28FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFF79DDB-A88D-4BDE-B26D-B2767051D2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFF79DDB-A88D-4BDE-B26D-B2767051D2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFF79DDB-A88D-4BDE-B26D-B2767051D2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFF79DDB-A88D-4BDE-B26D-B2767051D2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09942914-6C52-45C8-A8BA-80633E1863FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09942914-6C52-45C8-A8BA-80633E1863FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09942914-6C52-45C8-A8BA-80633E1863FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09942914-6C52-45C8-A8BA-80633E1863FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -45,6 +59,8 @@ Global
 		{A5230869-49E9-4804-A8B7-23674D2BEFCE} = {D6FDE716-1439-4D62-9C59-95C07CAE7C7E}
 		{E6984EC2-A4F0-410E-B9C7-D9B2ACA8FC50} = {4364C8D6-A27C-410F-8BED-24BDB044A5A7}
 		{3BDCFE9D-A471-463E-BF4D-20A17F07338E} = {4364C8D6-A27C-410F-8BED-24BDB044A5A7}
+		{43783B0B-8791-4B22-99CB-58F7B6E28FB4} = {DF218698-C797-4C78-9512-524F25C863E5}
+		{FFF79DDB-A88D-4BDE-B26D-B2767051D2D0} = {DF218698-C797-4C78-9512-524F25C863E5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9B37FEF-A070-436B-92A0-DC400DA59821}
