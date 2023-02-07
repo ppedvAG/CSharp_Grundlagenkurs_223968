@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\bin\Debug\net7.0\Modul003_Array_Conditions.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\bin\Debug\net7.0\Modul003_Array_Conditions.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\bin\Debug\net7.0\Modul003_Array_Conditions.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\bin\Debug\net7.0\Modul003_Array_Conditions.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\bin\Debug\net7.0\Modul003_Array_Conditions.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\refint\Modul003_Array_Conditions.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\Modul003_Array_Conditions.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul003_Array_Conditions\obj\Debug\net7.0\ref\Modul003_Array_Conditions.dll
