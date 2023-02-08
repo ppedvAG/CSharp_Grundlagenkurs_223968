@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Wiederholung_und_Extentions_zu_Tag1/1.0.0": {
+        "runtime": {
+          "Wiederholung_und_Extentions_zu_Tag1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wiederholung_und_Extentions_zu_Tag1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

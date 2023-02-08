@@ -178,6 +178,9 @@ namespace Modul004_Schleifen_Enums
                 case 5:
                     Console.WriteLine("zahl ist 5");
                     break;
+
+                //zahl wird in z eingelegt (zu überprüfende Variable wird für Bedingungsprüfung vorbereitet)
+                //und mittels when auf eine Eigenschaft geprüft
                 case int z when z < 0:
                     Console.WriteLine("zahl < 0");
                         break;
@@ -185,7 +188,13 @@ namespace Modul004_Schleifen_Enums
                     break;
             }
 
+            //zahl wird auf int geprüft, wenn Zahl sich vom Typ in handelt, wird dieses in myNumber konventiert 
+            if (zahl is int myNumber)
+            {
+                Console.WriteLine(myNumber);
+            }
 
+            
             #endregion
         }
     }
