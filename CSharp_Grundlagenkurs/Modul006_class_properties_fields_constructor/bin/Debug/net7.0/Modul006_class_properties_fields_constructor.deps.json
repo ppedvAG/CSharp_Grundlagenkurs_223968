@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modul006_class_properties_fields_constructor/1.0.0": {
+        "runtime": {
+          "Modul006_class_properties_fields_constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul006_class_properties_fields_constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

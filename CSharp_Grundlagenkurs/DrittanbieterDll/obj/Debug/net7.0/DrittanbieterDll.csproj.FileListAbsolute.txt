@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\bin\Debug\net7.0\DrittanbieterDll.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\bin\Debug\net7.0\DrittanbieterDll.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\bin\Debug\net7.0\DrittanbieterDll.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\refint\DrittanbieterDll.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\DrittanbieterDll.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\DrittanbieterDll\obj\Debug\net7.0\ref\DrittanbieterDll.dll
