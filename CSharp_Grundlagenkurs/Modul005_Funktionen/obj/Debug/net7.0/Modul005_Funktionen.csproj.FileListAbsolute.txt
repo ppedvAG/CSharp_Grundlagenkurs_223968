@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\bin\Debug\net7.0\Modul005_Funktionen.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\bin\Debug\net7.0\Modul005_Funktionen.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\bin\Debug\net7.0\Modul005_Funktionen.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\bin\Debug\net7.0\Modul005_Funktionen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\bin\Debug\net7.0\Modul005_Funktionen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\refint\Modul005_Funktionen.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\Modul005_Funktionen.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul005_Funktionen\obj\Debug\net7.0\ref\Modul005_Funktionen.dll

@@ -39,6 +39,7 @@
             #region BitFlag
             FischartenInMeinenSee selektierteFischSorten = FischartenInMeinenSee.Zander | FischartenInMeinenSee.Karpfen | FischartenInMeinenSee.Hecht;
 
+            
 
             foreach (FischartenInMeinenSee currentFischSorte in Enum.GetValues(typeof(FischartenInMeinenSee)))
             {
@@ -51,6 +52,14 @@
 
 
         }
+    }
+    
+    public enum Jahrezeiten
+    {
+        Frühling = 0,
+        Sommer = 1,
+        Herbst = 2,
+        Winter = 4
     }
 
     [Flags]

@@ -50,7 +50,7 @@
                         {
                             Console.WriteLine("\nEine Division durch 0 ist nicht erlaubt.");
                             Console.WriteLine("Wiederholen? (Y/N) ");
-                            //Sprung zur Schleifenprüfung
+                            //Sprung zur Schleifenprüfung -> Was passiert, wenn wir Nein drücken 
                             continue;
                         }
                         ergebnis = zahl1 / zahl2;
