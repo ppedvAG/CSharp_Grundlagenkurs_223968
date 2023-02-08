@@ -27,11 +27,67 @@
 
 
             //Werte und Referenztypen
-            int differenz;
+
+
+            //.NET Beispiel anhand int.tryParse
+
+            int convertedValue;
+            string numberAsString = "12345";
+            string unvalidNumberAsString = "12345b";
+
+            //Returnwert bool tryParse-> sagt aus, ob das conventieren in eine int-Variable geklappt hat 
+            if (int.TryParse(numberAsString, out convertedValue)) 
+            {
+                //convertedValue ist 100% eine Zahl 
+
+                Console.WriteLine(convertedValue);
+            }
+            else
+                Console.WriteLine("Konventierung schlägt fehl");
+
+            convertedValue = 0;
+
+            if (int.TryParse(unvalidNumberAsString, out convertedValue))
+            {
+                Console.WriteLine(convertedValue);
+            }
+            else
+                Console.WriteLine("Konventierung schlägt fehl");
+
+
+
+            int differenz; //int Variable differenz hat hier die Speicheradresse: 0x123
+
             int summe4 = AddiereUndSubtrahiere(33, 11, out differenz);
 
+            
+
+
+
+
+
+            //int.TryParse()
             Console.WriteLine($"{differenz}");
-            Console.WriteLine($"{summe4}");  
+            Console.WriteLine($"{summe4}");
+
+
+            //Was sind Wertetypen: 
+            //int, float, short, byte, bool, long (Alle Ganzzahltypen) + Gleitkomma-Datentypen (double, float, decimal) 
+            //struct, enums
+            //Wie verhält sich ein Wertetyp bei einer VariablenZuweisung?
+
+            int meineOrginalVariable = 123;
+
+            int meineDestinationVariable = meineOrginalVariable;
+
+            meineDestinationVariable = 456;
+
+
+            //Was ist ein Referenztyp:
+            //class, interfaces, string
+
+            
+            
 
         }
 
@@ -85,11 +141,23 @@
             => a - b - c - d;
 
 
-        static int AddiereUndSubtrahiere (int a, int b, out int differenz)
+        static int AddiereUndSubtrahiere (int a, int b, out int differenz) //Parametervariable differenz hat hier die Speicheradresse: 0x123 
         {
             differenz = a - b;
             return a + b;
         }
+
+
+        static void MeinePersonMachtEtwas(Person p) //Speicheradresse wird übergeben (keine Kopie) 
+        {
+
+        }
+    }
+
+
+    public class Person
+    {
+
     }
 
 
