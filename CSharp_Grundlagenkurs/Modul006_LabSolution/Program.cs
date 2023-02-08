@@ -24,12 +24,7 @@
             fz1.StoppeMotor();
             Console.WriteLine(fz1.Info() + "\n");
 
-            //Diese Logik wäre in der Klasse Fahrzeug in einer Methode FahrzeugAnhalten() besser aufgehoben
-            while (fz1.AktGeschwindigkeit != 0)
-            {
-                fz1.Bremsen();
-            }
-
+            
             fz1.StoppeMotor();
             Console.WriteLine(fz1.Info() + "\n");
             #endregion
@@ -82,7 +77,7 @@
         //Methode zum Stoppen des Motors
         public void StoppeMotor()
         {
-            if (!this.MotorLäuft)
+            if (!MotorLäuft)
                 Console.WriteLine($"Der Motor von {this.Name} ist bereits gestoppt");
             else if (this.AktGeschwindigkeit > 0)
                 Console.WriteLine($"Der Motor kann nicht gestoppt werden, da sich {this.Name} noch bewegt");
@@ -94,23 +89,23 @@
         }
 
         //Methode zum Beschleunigen und Bremsen
-        public void Beschleunige(int a)
+        public void Beschleunige(int offset)
         {
             if (this.MotorLäuft)
             {
-                if (this.AktGeschwindigkeit + a > this.MaxGeschwindigkeit)
+                if (this.AktGeschwindigkeit + offset > this.MaxGeschwindigkeit)
                     this.AktGeschwindigkeit = this.MaxGeschwindigkeit;
-                else if (this.AktGeschwindigkeit + a < 0)
+                else if (this.AktGeschwindigkeit + offset < 0)
                     this.AktGeschwindigkeit = 0;
                 else
-                    this.AktGeschwindigkeit += a;
+                    this.AktGeschwindigkeit += offset;
 
                 Console.WriteLine($"{this.Name} bewegt sich jetzt mit {this.AktGeschwindigkeit}km/h");
             }
         }
 
 
-        public void Bremsen()
+        public void BremsenIntervall()
         {
             if (this.MotorLäuft)
             {
@@ -119,6 +114,16 @@
                 else
                     AktGeschwindigkeit = 0;
             }
+        }
+
+        public void BremseKomplett()
+        {
+            //Diese Logik wäre in der Klasse Fahrzeug in einer Methode FahrzeugAnhalten() besser aufgehoben
+            while (this.AktGeschwindigkeit != 0)
+            {
+                this.BremsenIntervall();
+            }
+
         }
 
         #endregion
