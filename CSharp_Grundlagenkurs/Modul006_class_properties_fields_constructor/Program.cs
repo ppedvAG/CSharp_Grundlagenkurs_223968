@@ -17,6 +17,9 @@ namespace Modul006_class_properties_fields_constructor
 
 
             Lebewesen lebewesen1 = new Lebewesen();
+            lebewesen1.Lieblingsnahrung = "Burger";
+            lebewesen1.Bezeichnung = "Mensch";
+
 
             Lebewesen lebewesen2 = new Lebewesen(DateTime.Now, 10, "Lassange");
 
@@ -49,6 +52,8 @@ namespace Modul006_class_properties_fields_constructor
     //Eine Klasse ist eine Vorlage für Objekte. Sie bestimmen Eigenschaften und Methoden
     public class Lebewesen
     {
+        //C++ Member-Variable oder Klassen-Variable
+        //Andere Begriffe: Felder / Field / Backfield
         private DateTime _geburtstag;
         private double _gewicht;
         private string _lieblingsnahrung;
@@ -56,6 +61,8 @@ namespace Modul006_class_properties_fields_constructor
         private double _hoehe;
        
         private string _secret = "123";
+
+        private string farbe;
 
         #region Konstruktor
 
@@ -88,8 +95,14 @@ namespace Modul006_class_properties_fields_constructor
         public Lebewesen(DateTime geburtstag, double gewicht, string lieblingsnahrung, double breite, double hoehe, string bezeichnung)
           : this(geburtstag, gewicht, lieblingsnahrung, breite, hoehe)
         {
+            
             Bezeichnung = bezeichnung;
         }
+
+        //public Lebewesen(string farbe)
+        //{
+        //    this.farbe = farbe;
+        //}
 
         //Kopier-Konstrukot übergibt seine Werte in ein neues Objekt -> es stellt eine Kopie 
         public Lebewesen(Lebewesen lebewesen)

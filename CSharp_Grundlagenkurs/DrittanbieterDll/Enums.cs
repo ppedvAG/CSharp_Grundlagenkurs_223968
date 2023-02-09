@@ -11,3 +11,10 @@
     {
     }
 }
+
+namespace DrittanbieterDll.Common
+{
+    public enum Anrede { Herr, Frau, Divers }
+
+    //public class Anrede { } -> würde ein Fehler ergeben -> Anrede ist schon in DrittanbieterDll.Common vergeben 
+}

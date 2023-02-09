@@ -1,4 +1,6 @@
-﻿namespace Modul006_LabSolution
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Modul006_LabSolution
 {
     internal class Program
     {
@@ -34,12 +36,23 @@
 
     public class Fahrzeug
     {
+        private int _aktGeschwindigkeit; 
         #region Lab 06: Properties, Methoden, Konstruktor
 
         //Properties
         public string Name { get; set; }
         public int MaxGeschwindigkeit { get; set; }
-        public int AktGeschwindigkeit { get; set; }
+        public int AktGeschwindigkeit 
+        { 
+            get
+            {
+                return _aktGeschwindigkeit;
+            }
+            set 
+            {
+                _aktGeschwindigkeit = value;
+            }
+        }
         public double Preis { get; set; }
         public bool MotorLäuft { get; set; }
 
@@ -128,4 +141,34 @@
 
         #endregion
     }
+}
+
+//DataAnnotationen -> ASP.NET Core (Frontend) 
+//                 -> EF.Core (Database) 
+
+
+namespace Modul006_LabSolution.Zweiter
+{
+    public class Movie
+    {
+        public int Id { get; set; }
+
+        [Required]
+        [MaxLength(50)]
+        public string Title { get; set; }
+
+
+        [Required]
+        [MaxLength(250)]
+        public string Description { get; set; }
+
+        [Range(0, 100)]
+        public decimal Price { get; set; }
+
+        
+        public int ReleaseYerar {get;set; } 
+        public GenreType Genre { get; set; }
+    }
+
+    public enum GenreType { Action, Comedy, Drama, Horror, ScienceFiction, Adventure, Biography, Docu}
 }

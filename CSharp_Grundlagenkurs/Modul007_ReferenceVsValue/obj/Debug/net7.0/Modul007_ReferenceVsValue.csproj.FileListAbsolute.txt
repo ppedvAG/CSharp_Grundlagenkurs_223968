@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\bin\Debug\net7.0\Modul007_ReferenceVsValue.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\bin\Debug\net7.0\Modul007_ReferenceVsValue.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\bin\Debug\net7.0\Modul007_ReferenceVsValue.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\bin\Debug\net7.0\Modul007_ReferenceVsValue.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\bin\Debug\net7.0\Modul007_ReferenceVsValue.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\refint\Modul007_ReferenceVsValue.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\Modul007_ReferenceVsValue.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_ReferenceVsValue\obj\Debug\net7.0\ref\Modul007_ReferenceVsValue.dll

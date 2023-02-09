@@ -60,15 +60,9 @@
 
             int summe4 = AddiereUndSubtrahiere(33, 11, out differenz);
 
-            
-
-
-
-
-
             //int.TryParse()
-            Console.WriteLine($"{differenz}");
-            Console.WriteLine($"{summe4}");
+            Console.WriteLine($"{differenz}"); //22
+            Console.WriteLine($"{summe4}"); //44
 
 
             //Was sind Wertetypen: 
