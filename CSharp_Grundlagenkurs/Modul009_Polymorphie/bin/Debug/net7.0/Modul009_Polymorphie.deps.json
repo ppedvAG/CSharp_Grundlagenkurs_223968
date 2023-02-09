@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Modul009_Polymorphie/1.0.0": {
+        "runtime": {
+          "Modul009_Polymorphie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modul009_Polymorphie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

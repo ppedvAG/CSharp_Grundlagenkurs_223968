@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\bin\Debug\net6.0\NET6ConsolenApp.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\bin\Debug\net6.0\NET6ConsolenApp.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\bin\Debug\net6.0\NET6ConsolenApp.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\bin\Debug\net6.0\NET6ConsolenApp.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\bin\Debug\net6.0\NET6ConsolenApp.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\refint\NET6ConsolenApp.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\NET6ConsolenApp.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\NET6ConsolenApp\obj\Debug\net6.0\ref\NET6ConsolenApp.dll

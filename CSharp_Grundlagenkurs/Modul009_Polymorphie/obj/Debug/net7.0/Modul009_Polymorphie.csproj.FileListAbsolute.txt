@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\bin\Debug\net7.0\Modul009_Polymorphie.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\bin\Debug\net7.0\Modul009_Polymorphie.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\bin\Debug\net7.0\Modul009_Polymorphie.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\bin\Debug\net7.0\Modul009_Polymorphie.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\bin\Debug\net7.0\Modul009_Polymorphie.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\refint\Modul009_Polymorphie.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\Modul009_Polymorphie.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul009_Polymorphie\obj\Debug\net7.0\ref\Modul009_Polymorphie.dll

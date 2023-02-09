@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\bin\Debug\net7.0\Modul010_Interfaces.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\bin\Debug\net7.0\Modul010_Interfaces.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\bin\Debug\net7.0\Modul010_Interfaces.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\bin\Debug\net7.0\Modul010_Interfaces.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\bin\Debug\net7.0\Modul010_Interfaces.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\refint\Modul010_Interfaces.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\Modul010_Interfaces.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul010_Interfaces\obj\Debug\net7.0\ref\Modul010_Interfaces.dll

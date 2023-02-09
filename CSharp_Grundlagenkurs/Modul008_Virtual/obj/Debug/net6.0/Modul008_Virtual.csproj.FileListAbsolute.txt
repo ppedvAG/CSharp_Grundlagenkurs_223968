@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\bin\Debug\net6.0\Modul008_Virtual.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\bin\Debug\net6.0\Modul008_Virtual.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\bin\Debug\net6.0\Modul008_Virtual.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\bin\Debug\net6.0\Modul008_Virtual.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\bin\Debug\net6.0\Modul008_Virtual.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\refint\Modul008_Virtual.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\Modul008_Virtual.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Virtual\obj\Debug\net6.0\ref\Modul008_Virtual.dll

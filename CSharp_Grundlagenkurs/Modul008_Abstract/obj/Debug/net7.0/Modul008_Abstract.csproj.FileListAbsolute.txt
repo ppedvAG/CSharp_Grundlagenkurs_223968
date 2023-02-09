@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\bin\Debug\net7.0\Modul008_Abstract.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\bin\Debug\net7.0\Modul008_Abstract.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\bin\Debug\net7.0\Modul008_Abstract.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\bin\Debug\net7.0\Modul008_Abstract.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\bin\Debug\net7.0\Modul008_Abstract.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\refint\Modul008_Abstract.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\Modul008_Abstract.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul008_Abstract\obj\Debug\net7.0\ref\Modul008_Abstract.dll

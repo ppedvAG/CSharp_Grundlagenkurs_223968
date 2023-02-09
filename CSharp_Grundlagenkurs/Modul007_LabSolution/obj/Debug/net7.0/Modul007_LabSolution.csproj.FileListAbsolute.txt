@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\bin\Debug\net7.0\Modul007_LabSolution.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\bin\Debug\net7.0\Modul007_LabSolution.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\bin\Debug\net7.0\Modul007_LabSolution.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\bin\Debug\net7.0\Modul007_LabSolution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\bin\Debug\net7.0\Modul007_LabSolution.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\refint\Modul007_LabSolution.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\Modul007_LabSolution.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Modul007_LabSolution\obj\Debug\net7.0\ref\Modul007_LabSolution.dll
