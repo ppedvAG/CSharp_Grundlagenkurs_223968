@@ -59,8 +59,12 @@ namespace Modul010_Interfaces
             using (SqlConnection conn = new SqlConnection())
             {
                 //Machwas -> Query
-            } //Dispose -> hier wird die Connection abgebaut, beim Verlassen des Code-Blockes
+            } //IDispose -> hier wird die Connection abgebaut, beim Verlassen des Code-Blockes
 
+            using (FileStream fs = new FileStream("abt.txt", FileMode.Open))
+            {
+
+            }
 
             //using benötigt ein IDisposeable
             using (MyJahrmarktstand myJahrmarktstand = new MyJahrmarktstand())

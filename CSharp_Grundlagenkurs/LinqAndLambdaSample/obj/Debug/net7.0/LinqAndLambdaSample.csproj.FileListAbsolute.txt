@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\bin\Debug\net7.0\LinqAndLambdaSample.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\bin\Debug\net7.0\LinqAndLambdaSample.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\bin\Debug\net7.0\LinqAndLambdaSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\bin\Debug\net7.0\LinqAndLambdaSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\bin\Debug\net7.0\LinqAndLambdaSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\refint\LinqAndLambdaSample.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\LinqAndLambdaSample.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\LinqAndLambdaSample\obj\Debug\net7.0\ref\LinqAndLambdaSample.dll

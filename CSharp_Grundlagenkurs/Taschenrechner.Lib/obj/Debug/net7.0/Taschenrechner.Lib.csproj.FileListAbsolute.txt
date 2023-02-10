@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\bin\Debug\net7.0\Taschenrechner.Lib.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\bin\Debug\net7.0\Taschenrechner.Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\bin\Debug\net7.0\Taschenrechner.Lib.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\refint\Taschenrechner.Lib.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\Taschenrechner.Lib.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\Taschenrechner.Lib\obj\Debug\net7.0\ref\Taschenrechner.Lib.dll

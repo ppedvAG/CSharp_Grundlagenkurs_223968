@@ -38,6 +38,11 @@
             {
                 areaOfAll += currentShape.GetArea();
                 Console.WriteLine(currentShape.ShapeOutput());
+
+                if (currentShape is Quatrat)
+                {
+                    //quatratCounter++; 
+                }
             }
 
             Console.WriteLine(areaOfAll);
@@ -58,6 +63,11 @@
         {
             EinePrivateMethode();
             return "Ist eine Shape";
+        }
+
+        public void ZentraleLogikFürAlleVererbtenObjekte()
+        {
+            Console.WriteLine("Machwas");
         }
 
         private void EinePrivateMethode()
