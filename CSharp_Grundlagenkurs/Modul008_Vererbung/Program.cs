@@ -16,8 +16,6 @@ namespace Modul008_Vererbung
 
     public class Human
     {
-        
-
         [Required]
         public string Url { get; set; }
 

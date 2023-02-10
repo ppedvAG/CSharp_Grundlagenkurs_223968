@@ -55,12 +55,13 @@ namespace Modul008_Abstract
         public double X { get; set; }
         public double Y { get; set; }
 
-
+        //abstract MUSS-Implementierung
         public override double GetArea()
         {
             return X * Y;
         }
 
+        //Virtual is KANN 
         public override string ShapeOutput()
         {
             return $"Ein Quatrat mit X={X} Y={Y} mit einer Fläche von {GetArea()}";

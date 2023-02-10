@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\bin\Debug\net7.0\WiederholungTag3.exe
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\bin\Debug\net7.0\WiederholungTag3.deps.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\bin\Debug\net7.0\WiederholungTag3.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\bin\Debug\net7.0\WiederholungTag3.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\bin\Debug\net7.0\WiederholungTag3.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\refint\WiederholungTag3.dll
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.pdb
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\WiederholungTag3.genruntimeconfig.cache
+C:\Aktueller Kurs\CSharp_Grundlagenkurs_223968\CSharp_Grundlagenkurs\WiederholungTag3\obj\Debug\net7.0\ref\WiederholungTag3.dll

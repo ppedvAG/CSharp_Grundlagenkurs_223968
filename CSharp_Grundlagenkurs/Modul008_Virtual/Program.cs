@@ -30,9 +30,11 @@
         
         
         
-        public virtual string ArtikelNr { get; set; }
+       
 
         public int Garantie { get; set; } = 0;
+
+
 
         public decimal Price
         {
@@ -49,15 +51,15 @@
                 return price;
             }
         }
-
-
         public Artikel(string artikelNr, decimal price, int garantie)
         {
-            ArtikelNr = artikelNr;  
+            ArtikelNr = artikelNr;
             Price = price;
             Garantie = garantie;
         }
 
+
+        public virtual string ArtikelNr { get; set; }
         public virtual string ArtikelAusgabe()
         {
             return Garantie != 0 ? $"ArtikelNr {ArtikelNr} hat einen Preis von  {Price} und eine Garantie von {Garantie}" 
@@ -76,28 +78,17 @@
         }
 
         //ArtikelNr soll dieses Format verwenden -> E-12345
-        public override string ArtikelNr 
-        {
-            get
-            {
-                return base.ArtikelNr;
-            }
-
-            set
-            {
-                if (value.StartsWith("E-"))
-                    base.ArtikelNr = value;
-            }
-        }
-
         public override string ArtikelAusgabe()
         {
             //Es ist auch Möglich ArtikelAusgabe von der Basis-Klasse mitzuverwenden und hier zu erweitern.
             //string artikelAusgabeVonBase = base.ArtikelAusgabe();
 
+
+            string variante_kombination = base.ArtikelAusgabe() + " bitte melden Sie sich bei Frau Müller in der Elektroabteilung";
+
+
             return $"Elektro-Artikel: {ArtikelNr} hate eine Garantie von {Garantie} - (oder mindestens 2 Jahre) und kostet {Price}";
         }
-
     }
 
 
@@ -129,6 +120,4 @@
             return "Hallo liebe Teilnehmer";
         }
     }
-
-
 }

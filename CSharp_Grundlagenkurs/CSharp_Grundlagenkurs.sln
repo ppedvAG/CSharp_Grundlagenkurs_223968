@@ -45,29 +45,37 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul006_class_properties_f
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul006_LabSolution", "Modul006_LabSolution\Modul006_LabSolution.csproj", "{097F4CFC-0715-4CAD-A3AD-E83EF050EEC0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007", "Modul007\Modul007.csproj", "{79EE8627-F485-4691-A198-C640512DA052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007", "Modul007\Modul007.csproj", "{79EE8627-F485-4691-A198-C640512DA052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_ReferenceVsValue", "Modul007_ReferenceVsValue\Modul007_ReferenceVsValue.csproj", "{F3919BA8-622E-424A-8429-C9A174DE928F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_ReferenceVsValue", "Modul007_ReferenceVsValue\Modul007_ReferenceVsValue.csproj", "{F3919BA8-622E-424A-8429-C9A174DE928F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_IDisposable", "Modul007_IDisposable\Modul007_IDisposable.csproj", "{EFCCC346-717F-49E8-9802-4D3C63E214D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_IDisposable", "Modul007_IDisposable\Modul007_IDisposable.csproj", "{EFCCC346-717F-49E8-9802-4D3C63E214D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul007_LabSolution", "Modul007_LabSolution\Modul007_LabSolution.csproj", "{A0125C39-DE6F-4350-8AB4-8FFF35F1B174}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul007_LabSolution", "Modul007_LabSolution\Modul007_LabSolution.csproj", "{A0125C39-DE6F-4350-8AB4-8FFF35F1B174}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul007_statische Methoden_Variablen", "Modul007_statische Methoden_Variablen", "{97547D0E-EB01-44F7-8D05-98D18FC02056}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul008_Vererbung", "Modul008_Vererbung\Modul008_Vererbung.csproj", "{00DD8E61-A89A-4B88-A3A0-FF31AFD5DB93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul008_Vererbung", "Modul008_Vererbung\Modul008_Vererbung.csproj", "{00DD8E61-A89A-4B88-A3A0-FF31AFD5DB93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul008_Virtual", "Modul008_Virtual\Modul008_Virtual.csproj", "{725BDFBD-30AB-497B-B240-B518391FF13A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul008_Virtual", "Modul008_Virtual\Modul008_Virtual.csproj", "{725BDFBD-30AB-497B-B240-B518391FF13A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NET6ConsolenApp", "NET6ConsolenApp\NET6ConsolenApp.csproj", "{62344658-8BC0-4FBC-88F6-4724CEF64C36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NET6ConsolenApp", "NET6ConsolenApp\NET6ConsolenApp.csproj", "{62344658-8BC0-4FBC-88F6-4724CEF64C36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul008_Abstract", "Modul008_Abstract\Modul008_Abstract.csproj", "{7DA52446-2458-4D22-B2E7-43C74FFF944E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul008_Abstract", "Modul008_Abstract\Modul008_Abstract.csproj", "{7DA52446-2458-4D22-B2E7-43C74FFF944E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul008_09_Verbung", "Modul008_09_Verbung", "{27247479-C250-4C60-8D5A-F39925F0B723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul009_Polymorphie", "Modul009_Polymorphie\Modul009_Polymorphie.csproj", "{EA342B3E-F821-4197-B185-6CB1ABDE5E75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul009_Polymorphie", "Modul009_Polymorphie\Modul009_Polymorphie.csproj", "{EA342B3E-F821-4197-B185-6CB1ABDE5E75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul010_Interfaces", "Modul010_Interfaces\Modul010_Interfaces.csproj", "{A8F69030-E29E-43CF-8038-7473EC48BB99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modul010_Interfaces", "Modul010_Interfaces\Modul010_Interfaces.csproj", "{A8F69030-E29E-43CF-8038-7473EC48BB99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiederholungTag3", "WiederholungTag3\WiederholungTag3.csproj", "{E078CC61-B66B-4458-99FB-3FDC402BE68F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul009_Polymophism", "Modul009_Polymophism", "{59F10B6F-0194-4339-8D07-5E0188C11909}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modul010_Interface", "Modul010_Interface", "{80224E34-4F5C-4B86-874B-45CA98B019EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul008_LabSolution", "Modul008_LabSolution\Modul008_LabSolution.csproj", "{2742C92F-BF04-4048-99BA-3263C483917F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +179,14 @@ Global
 		{A8F69030-E29E-43CF-8038-7473EC48BB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8F69030-E29E-43CF-8038-7473EC48BB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8F69030-E29E-43CF-8038-7473EC48BB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E078CC61-B66B-4458-99FB-3FDC402BE68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E078CC61-B66B-4458-99FB-3FDC402BE68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E078CC61-B66B-4458-99FB-3FDC402BE68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E078CC61-B66B-4458-99FB-3FDC402BE68F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2742C92F-BF04-4048-99BA-3263C483917F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2742C92F-BF04-4048-99BA-3263C483917F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2742C92F-BF04-4048-99BA-3263C483917F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2742C92F-BF04-4048-99BA-3263C483917F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -197,6 +213,9 @@ Global
 		{00DD8E61-A89A-4B88-A3A0-FF31AFD5DB93} = {27247479-C250-4C60-8D5A-F39925F0B723}
 		{725BDFBD-30AB-497B-B240-B518391FF13A} = {27247479-C250-4C60-8D5A-F39925F0B723}
 		{7DA52446-2458-4D22-B2E7-43C74FFF944E} = {27247479-C250-4C60-8D5A-F39925F0B723}
+		{EA342B3E-F821-4197-B185-6CB1ABDE5E75} = {59F10B6F-0194-4339-8D07-5E0188C11909}
+		{A8F69030-E29E-43CF-8038-7473EC48BB99} = {80224E34-4F5C-4B86-874B-45CA98B019EA}
+		{2742C92F-BF04-4048-99BA-3263C483917F} = {27247479-C250-4C60-8D5A-F39925F0B723}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9B37FEF-A070-436B-92A0-DC400DA59821}
